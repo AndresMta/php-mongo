@@ -1,0 +1,17 @@
+{
+    "name": "user/prueba-mongo",
+    "autoload": {
+        "psr-4": {
+            "User\\PruebaMongo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andres",
+            "email": "marinsalta_9@outlook.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.10"
+    }
+}
